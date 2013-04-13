@@ -5,6 +5,17 @@ I don't really know what I'm doing when it comes to algebraic abstractions in pr
 
 Once this gets further, I hope to put up something more useful at this module name.
 
+## running the tests
+
+from package root,
+
+    $ npm install
+    $ npm test
+
+## available on npm
+
+    $ npm install fancy
+
 ## Fant'sy
 Quoth [wiktionary](http://en.wiktionary.org/wiki/fancy):
 > Fancy - From Middle English, a contraction of fantasy, from Old French fantasie, from Medieval Latin fantasia, from Late Latin phantasia (“an idea, notion, fancy, phantasm”), from Ancient Greek  (phantazein, “to render visible”)
